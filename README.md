@@ -10,4 +10,6 @@ This is a Krunker.io cheat loaded as a Chrome extension.
 
 ## :hammer: Installation
 
-1. Download from release. 
+1. Download from release.
+2. Execute Loader.exe
+3. Enjoy rage mode! 
